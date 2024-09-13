@@ -16,6 +16,7 @@ LLM을 활용하여 소비 내역을 분석하고 사용자 맞춤형 카드를 
 ## 서비스 소개
 ### 서비스 구조
 ![image](https://github.com/user-attachments/assets/f81f8bec-d1b7-4b6a-b891-9ca6f6b07369)
+
 [ 기술 스택 ]
 
 | KoBERT                | SQLite            | Faiss           | GPT          | Gradio         |
