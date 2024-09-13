@@ -16,13 +16,9 @@ LLM을 활용하여 소비 내역을 분석하고 사용자 맞춤형 카드를 
 ## 서비스 소개
 ### 서비스 구조
 ![image](https://github.com/user-attachments/assets/f81f8bec-d1b7-4b6a-b891-9ca6f6b07369)
+
 - [ 기술 스택 ]
-**KoBERT**  : 카테고리 분류 모델
-**SQLite**  : 거래 내역 DB
-**Faiss**  : 카드 정보 DB
-**GPT**  : 챗봇 LLM
-**Gradio**  : 데모 UI 제작
-- [ 기술 스택 ]
+
 | KoBERT                | SQLite            | Faiss           | GPT          | Gradio         |
 |-----------------------|-------------------|-----------------|--------------|----------------|
 | 카테고리 분류 모델    | 거래 내역 DB      | 카드 정보 DB    | 챗봇 LLM     | 데모 UI 제작   |
@@ -37,9 +33,6 @@ LLM을 활용하여 소비 내역을 분석하고 사용자 맞춤형 카드를 
 3. 실시간 피드백 및 사용자 인터페이스
 Gradio 인터페이스로 구현된 챗봇을 통해 실시간으로 소비 분석 및 카드를 추천받을 수 있습니다.
 향후 사용자 친화적인 UI를 추가하여 보다 직관적인 사용 경험을 제공할 예정입니다.
-<img src="![image](https://github.com/user-attachments/assets/57fd425e-6498-4f67-a29e-47017cd891ce)
-   " width="400"/>
-
 ![image](https://github.com/user-attachments/assets/57fd425e-6498-4f67-a29e-47017cd891ce)
 ![image](https://github.com/user-attachments/assets/c5056e5e-c76c-460b-98c0-0a87d28b26c0)
 
