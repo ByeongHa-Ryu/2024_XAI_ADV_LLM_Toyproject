@@ -1,7 +1,9 @@
 # 2024_XAI_ADV_LLM_Toyproject
 국민대학교 인공지능 학회 X:AI 의 2024년 ADV session 에서 진행한 LLM 팀의 Toy Project 입니다. 
 
-## 생성형 AI 기반의 사용자 맞춤 개인 소비 분석 및 카드 추천 챗봇
+# <span style="color: orange;">텅후루:</span>
+### <span style="color: navy;">생성형 AI 기반</span>  
+### <span style="color: navy;">개인화 소비 분석 금융 챗봇</span>
 
 #### 프로젝트 개요
 LLM을 활용하여 소비 내역을 분석하고 사용자 맞춤형 카드를 추천해주는 챗봇을 개발하는 것을 목표로 하고 있습니다. 사용자는 자신의 소비 데이터를 기반으로 실시간 분석 및 피드백을 받을 수 있으며, 또한 개인의 소비 패턴에 맞는 신용카드를 추천받을 수 있습니다.
